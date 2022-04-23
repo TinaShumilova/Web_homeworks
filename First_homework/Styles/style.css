@@ -19,6 +19,7 @@ img{
     height: 300px;
     float: left;
     margin: 2px 30px 2px 0;
+    border: 2px solid green;
 }
 body{
     margin: 0 200px 0 200px;
